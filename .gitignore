@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+ipch/
+Debug/
+Release/
+bin/
+obj/
+x64/
+build/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
